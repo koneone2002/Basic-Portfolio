@@ -132,12 +132,13 @@ li.rightBorder {
 }
 
 nav ul li a:hover {
-	color: #4aaaa5;
-	font-weight: bold;
+	background-color: #87B8B6;
+	color: white;
+	padding: 10px;
 }
 	
 	
-}
+
 .clearfix::after {
 
     content: "";
@@ -176,4 +177,73 @@ textarea {
 	bottom: 3px;
 
 }
+
+.picture {
+	margin: 20px;
+}
+.long {
+	height: 800px;
+
+
+}
+.banner {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	padding: 10px;
+	position: absolute;
+	top: 295px;
+	text-align: center;
+	width: 280px;
+
+}
+.banner1 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	padding: 10px;
+	position: absolute;
+	top: 535px;
+	text-align: center;
+	width: 280px;
+
+}
+.banner2 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	padding: 10px;
+	position: absolute;
+	top: 775px;
+	text-align: center;
+	width: 280px;
+
+}
+.banner3 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	padding: 10px;
+	position: absolute;
+	top: 295px;
+	right: 270px;
+	text-align: center;
+	width: 280px;
+
+}
+.banner4 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	padding: 10px;
+	position: absolute;
+	top: 535px;
+	text-align: center;
+	width: 280px;
+	right: 270px;
+
+}
+
+
+
 
