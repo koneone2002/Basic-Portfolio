@@ -2,7 +2,7 @@
 
 body {
 	font-size: 1em;
-	width: 100%;
+	max-width: 2000px;
 	background-image: url("../images/light-grey-terrazzo.png");
 	
 }
@@ -86,16 +86,17 @@ footer p {
 
 
 header {
-	max-width: 1400px;
-	width: 100%;
+	
+	width: 1400px;
 	display: block;
-	background-color: white;
+	background-color: #ffffff;
 	position: relative;	
 	top: 0;
-	left: 0;
+	right: 0;
 	padding: 30px;
 	margin: 0px auto 30px auto;
-	z-index: 2;	
+	border-bottom: 1.5px solid #cccccc;
+	
 	
 	
 }
